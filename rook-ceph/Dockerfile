@@ -1,2 +1,2 @@
-FROM quay.io/rook/ceph:v1.10.4
+FROM quay.io/rook/ceph:latest
 LABEL MAINTAINER=ysf_arvin@163.com BUILDTYPE=Aliyun
